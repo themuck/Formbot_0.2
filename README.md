@@ -20,9 +20,12 @@ https://github.com/VoronDesign/Voron-0/blob/Voron0.2/STLs/Electronics/RPi_or_BTT
 
 mounting plate (BTT PI) 
 
+https://github.com/themuck/Formbot_0.2/blob/main/STL/BBT%20PI%20Voron%20Mount.stl
 
 ### Isuess 
 
 The display button is to long for this faceplate
 
 https://github.com/VoronDesign/Voron-0/blob/Voron0.2/STLs/Display/%5Ba%5D_Display_Faceplate_x1.stl
+
+Issues with the part cooling radial fans. Have a look at the +/- pins when you change the fans!
