@@ -14,9 +14,12 @@ Parts for the Kirigami Z bed
 
 https://github.com/christophmuellerorg/voron_0_kirigami_bed/
 
-2x mounting plates (Pi + BTT pico) 
+mounting plate (BTT pico) 
 
 https://github.com/VoronDesign/Voron-0/blob/Voron0.2/STLs/Electronics/RPi_or_BTT-Pico_Mount.STL
+
+mounting plate (BTT PI) 
+
 
 ### Isuess 
 
