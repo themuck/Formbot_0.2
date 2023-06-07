@@ -20,7 +20,7 @@ https://github.com/VoronDesign/Voron-0/blob/Voron0.2/STLs/Electronics/RPi_or_BTT
 
 mounting plate (BTT PI) 
 
-https://github.com/themuck/Formbot_0.2/blob/main/STL/BBT%20PI%20Voron%20Mount.stl
+https://github.com/themuck/Formbot_0.2/blob/main/STL/BTT-PI_Mount.stl
 
 ### Isuess 
 
